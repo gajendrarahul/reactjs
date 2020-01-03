@@ -12,7 +12,7 @@ class App extends Component{
             <Navigation>
                 <a href="/Home">Home</a>
                 <a href="/Resume">Resume</a>
-                <a href="/Profile">Profile</a>
+                <a href="/Project">Projects</a>
                 <a href="/Contact">Contact</a>
                 <a href="/About">About Me</a>
             </Navigation>
