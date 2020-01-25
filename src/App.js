@@ -10,7 +10,7 @@ class App extends Component{
     <Layout>
         <Header className='header-color' title="My Personal-Site" scroll>
             <Navigation>
-                <a href="/Home">Home</a>
+                <a href="/">Home</a>
                 <a href="/Resume">Resume</a>
                 <a href="/Project">Projects</a>
                 <a href="/Contact">Contact</a>

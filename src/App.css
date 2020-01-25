@@ -63,3 +63,56 @@ color: white;
 font-size: 5em;
 padding: 8px;
 }
+/* resume page css*/
+.resume-right-col{
+  background:#27221F;
+  color: white;
+}
+.resume-left-col{
+background-repeat: no-repeat;
+}
+.resume-left-col p span{
+  font-size: 20px;
+  padding-top: 0em;
+  margin-top: 0px;
+  font-style: oblique;
+
+}
+.resume-left-col h4{
+  text-decoration: underline;
+}
+.resume-image{
+  height: 225px;
+  width: 215px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  -ms-border-radius: 150px;
+  -o-border-radius: 150px;
+
+}
+.style-one {
+  border: 0;
+  height: 3px;
+  width: 50%;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+/* this is project css*/
+.project-grid{
+  display: flex;
+  width: auto;
+  background-position: fixed;
+}
+/* contact page style*/
+.contact{
+  justify-content: center;
+  margin-top: 10%;
+}
+.contact-content{
+  background-color:#333;
+}
+.contact-content h4{
+  padding-left: 20px;
+  color: #fff;
+}
